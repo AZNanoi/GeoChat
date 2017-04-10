@@ -1,2 +1,2 @@
 # GeoChat
-Multiple chat rooms based on Geolocation
+Geolocation based chat
